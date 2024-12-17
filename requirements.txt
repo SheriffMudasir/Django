@@ -13,3 +13,4 @@ platformdirs==4.3.6
 setuptools==75.6.0
 sqlparse==0.5.3
 virtualenv==20.28.0
+gunicorn==23.0.0
